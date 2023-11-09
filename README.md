@@ -1,4 +1,4 @@
-# [Your Name]'s Power BI Developer Profile
+#  Power BI Developer Profile
 
 ## Overview
 
